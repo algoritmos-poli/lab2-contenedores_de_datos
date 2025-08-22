@@ -1,6 +1,6 @@
 package ejemplos;
 
-public class Ejemplo1 {
+public class Example1 {
     public static void main(String[] args) {
         // Inicializacion estatica del array
         String[] daysOfWeek = { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday" };
