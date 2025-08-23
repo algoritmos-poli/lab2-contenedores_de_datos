@@ -181,5 +181,5 @@ Al trabajar en estas tareas, usted ha desarrollado una sólida comprensión de l
 
 ## Nota importante
 
-> [!WARNING]
+> [!IMPORTANT]
 > Este laboratorio es una adaptación al español de la practica **Manipulating Arrays** del curso **Data Structures and Algorithms** ([link](https://www.coursera.org/learn/developer-data-structures-and-algorithms?specialization=amazon-junior-software-developer)).
